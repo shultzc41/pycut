@@ -1,6 +1,6 @@
 #!/usr/bin/python3.8
 
-import sys, getopt, fileinput, os.path
+import sys, getopt, os.path
 
 # Setting global variables.
 ###########################
