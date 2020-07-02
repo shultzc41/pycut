@@ -1,0 +1,3 @@
+Pycut is a recreation of the GNU cut command in Python. Note that the original code for this project 
+was not copied and/or recreated using the original cut source code. This code was written to mimic the 
+operation of the cut command.
